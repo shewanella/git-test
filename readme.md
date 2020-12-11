@@ -11,4 +11,5 @@
 -git branch canvas   
 -git checkout canvas   
 -git merge canvas   
--git push origin master
+-git push origin master   
+- git clone URL
