@@ -12,5 +12,5 @@
 - git checkout canvas   
 - git merge canvas   
 - git push origin master   
-- git clone URL
+- git clone URL   
 kevin edited at 20201211.
