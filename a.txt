@@ -1,1 +1,2 @@
 add master note
+merge canvas
